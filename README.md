@@ -22,8 +22,8 @@ With experience in building Android applications using Kotlin and Jetpack Compos
 
 ## Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/guillermocifre)
+- [LinkedIn](https://www.linkedin.com/in/guillermocifre)
 - [Twitter](https://x.com/WillyDev93)
-- [Email](guillermocifregonzalez@gmail.com)
+- [Email](mailto:guillermocifregonzalez@gmail.com)
 
 I’m excited to collaborate on projects that push the boundaries of  frontend, mobile or web, development and deliver meaningful user experiences. Let’s connect!
