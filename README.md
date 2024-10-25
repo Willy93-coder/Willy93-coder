@@ -1,4 +1,4 @@
-👋 Hi, I'm Guillermo Cifre, but everyone calls me Willy! I’m a software developer with a passion for mobile and frontend development, currently exploring new programming stacks like SwiftUI and enhancing my skills in building intuitive user interfaces.
+Hi, I'm Guillermo Cifre, but everyone calls me Willy! I’m a software developer with a passion for mobile and frontend development, currently exploring new programming stacks like SwiftUI and enhancing my skills in building intuitive user interfaces.
 
 ## About me
 
