@@ -6,7 +6,7 @@ With experience in building Android applications using Kotlin and Jetpack Compos
 
 ## Technical Skills
 
-- **Languages:** Swift, SQL, JavaScript, TypeScript
+- **Languages:** Swift, HTML, CSS, SQL, JavaScript, TypeScript
 - **Frameworks & Libraries:** SwiftUI, React, Node.js, Next.js
 - **Tools & Platforms:** GitHub, Docker
 
