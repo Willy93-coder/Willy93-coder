@@ -13,6 +13,7 @@ With experience in building Android applications using Kotlin and Jetpack Compos
 ## Key Projects 
 
 - [Rick & Morty App](https://github.com/Willy93-coder/RickAndMorty_iOS): An educational project developed to enhance my skills as an iOS mobile developer.
+- [Web Curriculum](https://www.guillermocifre.com/): Explore my CV to find out more about my experience and skills in mobile and web development.
 
 ## Professional Goals
 
