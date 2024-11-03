@@ -8,7 +8,7 @@ With experience in building Android applications using Kotlin and Jetpack Compos
 
 - **Languages:** Swift, HTML, CSS, SQL, JavaScript, TypeScript
 - **Frameworks & Libraries:** SwiftUI, React, Node.js, Next.js
-- **Tools & Platforms:** GitHub, Docker
+- **Tools & Platforms:** GitHub, Docker, Linux
 
 ## Key Projects 
 
