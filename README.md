@@ -14,6 +14,7 @@ With experience in building Android applications using Kotlin and Jetpack Compos
 
 - [Rick & Morty App](https://github.com/Willy93-coder/RickAndMorty_iOS): An educational project developed to enhance my skills as an iOS mobile developer.
 - [Web Curriculum](https://www.guillermocifre.com/): Explore my CV to find out more about my experience and skills in mobile and web development.
+- [Login demo](https://github.com/Willy93-coder/login_reactjs_demo): Example frontend login application with Supabase.
 
 ## Professional Goals
 
