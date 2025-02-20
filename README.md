@@ -2,7 +2,7 @@ Hi, I'm Guillermo Cifre, but everyone calls me Willy! I’m a software developer
 
 ## About me
 
-With experience in building FullStack web application using TypeScript, Next.js and Docker and Android applications using Kotlin and Jetpack Compose, I'm growing interest in DevOps, Cloud and Backend, I am constantly expanding my skill set. My focus is on building scalable, efficient, and reliable systems while deepening my understanding of cloud infrastructure, automation, and software architecture.
+With experience in building FullStack web application using TypeScript, Next.js and Docker and Android applications using Kotlin and Jetpack Compose, I'm growing interest in iOS development with Swift and SwiftUI, DevOps, Cloud and Backend, I am constantly expanding my skill set. My focus is on building scalable, efficient, and reliable systems while deepening my understanding of cloud infrastructure, automation, and software architecture.
 
 ## Technical Skills
 
