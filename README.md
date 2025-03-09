@@ -6,9 +6,9 @@ With experience in building FullStack web application using Python, Flask, MySQL
 
 ## Technical Skills
 
-- **Languages:** Python, SQL, HTML, CSS, JavaScript, TypeScript
-- **Frameworks & Libraries:** Flask, Pytest, React, Node.js, Next.js, Jest, Vitest
-- **Tools & Platforms:** GitHub, GitLab, Vite, Docker, MySQL, Linux
+- **Languages:** Python, SQL, JavaScript, TypeScript, HTML, CSS
+- **Frameworks & Libraries:** Flask, Pytest, SQLAlchemy, React.js, Next.js, Jest, Vitest
+- **Tools & Platforms:** GitHub, GitLab, Docker, MySQL, Linux
 
 ## Key Projects 
 
@@ -20,7 +20,7 @@ With experience in building FullStack web application using Python, Flask, MySQL
 
 ## Professional Goals
 
-- Bakcend Development: I aim to build scalable and efficient applications by mastering backend technologies.
+- Backend Development: I aim to build scalable and efficient applications by mastering backend technologies.
 - Cloud & DevOps: Developing expertise in cloud infrastructure, automation, and CI/CD pipelines to enhance the reliability and scalability of modern applications.
 - Systems & Architecture: Deepening my understanding of software architecture, distributed systems, and best practices for designing high-performance applications.
 - Continuous Learning: Always eager to explore new technologies, methodologies, and best practices that improve my development workflow and problem-solving skills.
