@@ -1,32 +1,37 @@
-Hi, I'm Guillermo Cifre, but everyone calls me Willy! I’m a software developer passionate low level programing and cybersecurity, with a strong focus on building scalable and efficient systems.
+# Hi, I'm Guillermo (Willy) Cifre
 
-## About me
+**Fullstack Developer transitioning into Infrastructure & Backend Engineering**.  
+With hands-on experience in **web and mobile development**, I am now focusing on **backend systems, automation, and infrastructure engineering** to design solutions that are **reliable, secure, and scalable**.
 
-With experience in building FullStack web application using Python, Flask, MySQL, TypeScript, Next.js and Docker and Android applications using Kotlin and Jetpack Compose, I'm increasingly interested in software system development, infrastructure, and backend development, and I'm constantly expanding my skill set.
+## 📌 About Me 
 
-## Technical Skills
+Experienced in developing **full-stack web applications** (Python, Flask, MySQL, TypeScript, Next.js, Docker) and **mobile apps** with Kotlin and Jetpack Compose.  
+
+My current focus is on **backend systems, infrastructure engineering, and automation**, aiming to build **scalable and resilient solutions**.  
+
+## ⚡ Technical Skills  
 
 - **Languages:** Go, Bash, Typescript, SQL, HTML, CSS
 - **Frameworks & Libraries:** MongoDB, GraphQL, React.js, Next.js, Jest, Vitest
-- **Tools & Platforms:** GitHub, GitLab, Docker, MySQL, Linux
+- **Tools & Platforms:** GitHub, GitLab, Docker, Linux
 
-## Key Projects 
+## 🔑 Key Projects 
 
 - [Web Curriculum](https://www.guillermocifre.com/): Explore my CV to find out more about my experience and skills in mobile and web development.
 - [Two-layer architecture](https://github.com/Willy93-coder/two_layer_architecture_docker): A two-layer Docker architecture for Odoo with separate containers for the application and the PostgreSQL database.
 - [Login demo](https://github.com/Willy93-coder/login_reactjs_demo): Example frontend login application with Supabase.
 
 
-## Professional Goals
+## 🎯 Professional Goals  
 
-- DevOps: Developing expertise in automation, and CI/CD pipelines to enhance the reliability and scalability of modern applications.
-- Systems: Deepening my understanding of software architecture, distributed systems, and best practices for designing high-performance applications.
-- Backend Development: I aim to build scalable and efficient applications by mastering backend technologies.
-- Continuous Learning: Always eager to explore new technologies, methodologies, and best practices that improve my development workflow and problem-solving skills.
+- **Infrastructure Engineering:** automation, containerization, and IaC.  
+- **Backend Systems:** Go + PostgreSQL for scalable services.  
+- **DevOps/SRE:** reliability, monitoring, and CI/CD pipelines.  
+- **Continuous Learning:** always exploring new tools and methodologies.
 
-## Connect with Me
+## 🌍 Connect with Me  
 
 - [LinkedIn](https://www.linkedin.com/in/guillermocifre)
 - [Twitter](https://x.com/WillyDev93)
 
-I am excited to collaborate on projects that drive the development of scalable and efficient backend systems, and deliver innovative technology solutions to optimize infrastructure and user experience. Let’s connect!
+Always looking to collaborate on scalable systems and infrastructure engineering projects. Let’s connect!
