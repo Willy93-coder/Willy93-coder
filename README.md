@@ -1,17 +1,15 @@
 # Hi, I'm Guillermo (Willy) Cifre
 
-**Fullstack Developer transitioning into Infrastructure & Backend Engineering**.  
-With hands-on experience in **web and mobile development**, I am now focusing on **backend systems, automation, and infrastructure engineering** to design solutions that are **reliable, secure, and scalable**.
+**Fullstack Developer transitioning into Backend & Infrastructure Engineering**.
+With hands-on experience in **web and mobile development**, I am now focusing on **backend systems and infrastructure engineering** to design solutions that are **reliable, secure, and scalable**.
 
 ## 📌 About Me 
 
-Experienced in developing **full-stack web applications** (Python, Flask, MySQL, TypeScript, Next.js, Docker) and **mobile apps** with Kotlin and Jetpack Compose.  
+Experienced in developing **full-stack web applications** (Python, Flask, MySQL, TypeScript, Next.js, Docker) and **mobile apps** with Kotlin and Jetpack Compose.
 
-My current focus is on **backend systems, infrastructure engineering, and automation**, aiming to build **scalable and resilient solutions**.  
+## ⚡ Technical Skills
 
-## ⚡ Technical Skills  
-
-- **Languages:** Go, Bash, Typescript, SQL, HTML, CSS
+- **Languages:** Go, Bash, Typescript
 - **Frameworks & Libraries:** MongoDB, GraphQL, React.js, Next.js, Jest, Vitest
 - **Tools & Platforms:** GitHub, GitLab, Docker, Linux
 
@@ -25,8 +23,7 @@ My current focus is on **backend systems, infrastructure engineering, and automa
 ## 🎯 Professional Goals  
 
 - **Infrastructure Engineering:** automation, containerization, and IaC.  
-- **Backend Systems:** Go + PostgreSQL for scalable services.  
-- **DevOps/SRE:** reliability, monitoring, and CI/CD pipelines.  
+- **Backend Systems:** Go + PostgreSQL for scalable services. 
 - **Continuous Learning:** always exploring new tools and methodologies.
 
 ## 🌍 Connect with Me  
