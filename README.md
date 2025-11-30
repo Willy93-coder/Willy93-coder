@@ -22,8 +22,8 @@ Experienced in developing **full-stack web applications** (Python, Flask, MySQL,
 
 ## 🎯 Professional Goals  
 
-- **Infrastructure Engineering:** automation, containerization, and IaC.  
-- **Backend Systems:** Go + PostgreSQL for scalable services. 
+- **Backend Systems:** Go + PostgreSQL for scalable services.
+- **Infrastructure Engineering:** automation, containerization, and IaC.
 - **Continuous Learning:** always exploring new tools and methodologies.
 
 ## 🌍 Connect with Me  
