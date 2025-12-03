@@ -17,6 +17,7 @@ Experienced in developing **full-stack web applications** (Python, Flask, MySQL,
 
 - [Web Curriculum](https://www.guillermocifre.com/): Explore my CV to find out more about my experience and skills in mobile and web development.
 - [Two-layer architecture](https://github.com/Willy93-coder/two_layer_architecture_docker): A two-layer Docker architecture for Odoo with separate containers for the application and the PostgreSQL database.
+- [Healthcheck endpoints](https://github.com/Willy93-coder/healthcheck-endpoint-express-js): Sample healthcheck endpoints showing how to implement liveness and readiness probes in a Node.js service.
 - [Login demo](https://github.com/Willy93-coder/login_reactjs_demo): Example frontend login application with Supabase.
 
 
