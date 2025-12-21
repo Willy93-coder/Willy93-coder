@@ -9,7 +9,7 @@ Experienced in developing **full-stack web applications** (Python, Flask, MySQL,
 
 ## ⚡ Technical Skills
 
-- **Languages:** Go, Bash, Typescript
+- **Languages:** TypeScript, Go, Bash
 - **Frameworks & Libraries:** MongoDB, GraphQL, React.js, Next.js, Jest, Vitest
 - **Tools & Platforms:** GitHub, GitLab, Docker, Linux
 
@@ -23,8 +23,8 @@ Experienced in developing **full-stack web applications** (Python, Flask, MySQL,
 
 ## 🎯 Professional Goals  
 
-- **Backend Systems:** Go + PostgreSQL for scalable services.
-- **Infrastructure Engineering:** automation, containerization, and IaC.
+- **Backend Systems:** TypeScript/Go + PostgreSQL for scalable services.
+- **Infrastructure Engineering:** CLI, automation, containerization, and IaC.
 - **Continuous Learning:** always exploring new tools and methodologies.
 
 ## 🌍 Connect with Me  
