@@ -9,8 +9,8 @@ Experienced in developing **full-stack web applications** (Python, Flask, MySQL,
 
 ## ⚡ Technical Skills
 
-- **Languages:** TypeScript, Go, Bash
-- **Frameworks & Libraries:** MongoDB, GraphQL, React.js, Next.js, Jest, Vitest
+- **Languages:** TypeScript, SQL
+- **Frameworks & Libraries:** MongoDB, GraphQL, React.js, Next.js, Zod, Jest, Vitest
 - **Tools & Platforms:** GitHub, GitLab, Docker, Linux
 
 ## 🔑 Key Projects 
